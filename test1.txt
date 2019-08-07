@@ -10,3 +10,6 @@ merged them both
 
 continue work on my-feature-1
 more work
+
+phase 2 of my-feature-1 (probably better to create new branch)
+continue
