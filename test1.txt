@@ -1,6 +1,9 @@
 Start working
 continue
 
-ddxx
+dd completely changed
 feature changes
 finishing my changes
+doing some work on new-feature
+extra work
+merged them both
