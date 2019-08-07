@@ -7,3 +7,5 @@ finishing my changes
 doing some work on new-feature
 extra work
 merged them both
+
+continue work on my-feature-1
